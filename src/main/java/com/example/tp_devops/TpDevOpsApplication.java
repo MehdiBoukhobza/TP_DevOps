@@ -8,7 +8,7 @@ public class TpDevOpsApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TpDevOpsApplication.class, args);
-        System.out.println("Une modification de la part de développeur");
+        System.out.println("Une modification de la part du Testeur");
     }
 
 }
