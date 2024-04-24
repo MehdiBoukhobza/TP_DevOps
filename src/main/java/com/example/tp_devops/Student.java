@@ -19,6 +19,7 @@ public class Student {
         this.phone = phone;
     }
 
+    // This is the name getter
     public String getName() {
         return name;
     }
